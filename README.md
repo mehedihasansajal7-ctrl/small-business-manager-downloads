@@ -12,14 +12,14 @@ Public APK downloads for the **Small Business Manager** app — small business m
 
 ## ⬇️ Download
 
-**Direct link — v0.1.3 (74.9 MB):**
+**Direct link — v0.1.3 (74.9 MB, 78,550,698 bytes):**
 
 ```
 https://github.com/mehedihasansajal7-ctrl/small-business-manager-downloads/releases/download/v0.1.3/SmallBusinessManager-v0.1.3.apk
 ```
 
 - Latest release page: [Releases](https://github.com/mehedihasansajal7-ctrl/small-business-manager-downloads/releases/latest)
-- SHA-256: `8A13D606229D61ECC62B9EB0E2A20F6E42D43480CAC18C3A1AD780138F300A1A`
+- SHA-256: `0ef99e8e6ed7f7aea121b985f7c318f70ebcf54eee26bd5daec3ef2be19f96bf`
 - Signed with APK Signature Scheme **v2** (required to install on Android 11+), certificate `CN=Android Debug` — a side-loaded build, not a Google Play release.
 
 ### Install on Android
@@ -89,7 +89,7 @@ https://github.com/mehedihasansajal7-ctrl/small-business-manager-downloads/relea
 ```
 
 - সব ভার্সন একসাথে: [Releases](https://github.com/mehedihasansajal7-ctrl/small-business-manager-downloads/releases/latest)
-- SHA-256: `8A13D606229D61ECC62B9EB0E2A20F6E42D43480CAC18C3A1AD780138F300A1A`
+- SHA-256: `0ef99e8e6ed7f7aea121b985f7c318f70ebcf54eee26bd5daec3ef2be19f96bf`
 
 ### অ্যান্ড্রয়েডে ইনস্টল করার নিয়ম
 
