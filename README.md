@@ -8,14 +8,14 @@ Public APK downloads for the **Small Business Manager** app — small business m
 
 ## English
 
-#> **v0.1.2 fixes sign-in on a device.** The session now arrives both as a cookie and as a token in the login response, and the server no longer marks the cookie `Secure` on plain HTTP. The language switcher is on the sign-in screen itself, before login.
+#> **v0.1.3: the app now starts in English** (Bangla is one tap away). **v0.1.2 fixed sign-in on a device.** The session now arrives both as a cookie and as a token in the login response, and the server no longer marks the cookie `Secure` on plain HTTP. The language switcher is on the sign-in screen itself, before login.
 
 ## ⬇️ Download
 
-**Direct link — v0.1.2 (74.9 MB):**
+**Direct link — v0.1.3 (74.9 MB):**
 
 ```
-https://github.com/mehedihasansajal7-ctrl/small-business-manager-downloads/releases/download/v0.1.2/SmallBusinessManager-v0.1.2.apk
+https://github.com/mehedihasansajal7-ctrl/small-business-manager-downloads/releases/download/v0.1.3/SmallBusinessManager-v0.1.3.apk
 ```
 
 - Latest release page: [Releases](https://github.com/mehedihasansajal7-ctrl/small-business-manager-downloads/releases/latest)
@@ -41,9 +41,9 @@ This build was baked with the default `http://192.168.0.20:8787`, which is only 
 
 > The APK permits plain **HTTP** servers on a local network on purpose (self-hosted / LAN setup). Once your API is served over HTTPS, that exception should be removed.
 
-### Language — Bangla and English
+### ভাষা - ইংরেজি ও বাংলা
 
-The app is fully bilingual. **Bangla is the default**; switch to English (or back) any time in **Settings → Language**. All 178 UI strings exist in both languages, money is formatted as BDT (`৳12,34,567.89`) with Bangla digits available, and dates render in Bangla month names.
+অ্যাপটি সম্পূর্ণ দ্বিভাষিক এবং এখন **ইংরেজিতে শুরু হয়** (v0.1.3 থেকে); বাংলায় বদলানোর বোতামটি **সাইন-ইন স্ক্রিনেই** এবং **Settings → Language**-এ আছে।s, money is formatted as BDT (`৳12,34,567.89`) with Bangla digits available, and dates render in Bangla month names.
 
 ### What the app does
 
@@ -85,7 +85,7 @@ No Expo account, no EAS subscription and no Play Console are involved — only G
 **সরাসরি লিংক — v0.1.0 (৭৪.৯ MB):**
 
 ```
-https://github.com/mehedihasansajal7-ctrl/small-business-manager-downloads/releases/download/v0.1.2/SmallBusinessManager-v0.1.2.apk
+https://github.com/mehedihasansajal7-ctrl/small-business-manager-downloads/releases/download/v0.1.3/SmallBusinessManager-v0.1.3.apk
 ```
 
 - সব ভার্সন একসাথে: [Releases](https://github.com/mehedihasansajal7-ctrl/small-business-manager-downloads/releases/latest)
@@ -110,9 +110,9 @@ https://github.com/mehedihasansajal7-ctrl/small-business-manager-downloads/relea
 
 > লোকাল নেটওয়ার্কে সাধারণ (HTTP) সার্ভার ব্যবহারের অনুমতি ইচ্ছাকৃতভাবে দেওয়া আছে। API একবার HTTPS-এ চলে গেলে এই অনুমতিটি সরিয়ে দেওয়া উচিত।
 
-### ভাষা — বাংলা ও ইংরেজি
+### ভাষা - ইংরেজি ও বাংলা
 
-অ্যাপটি সম্পূর্ণ দ্বিভাষিক। **ডিফল্ট ভাষা বাংলা**; **Settings → Language** থেকে যেকোনো সময় ইংরেজিতে (বা আবার বাংলায়) বদলানো যায়। সব লেখা দুই ভাষাতেই আছে, টাকা বাংলা সংখ্যায় (৳১২,৩৪,৫৬৭.৮৯) দেখানো যায়, আর তারিখও বাংলা মাসের নামে আসে।
+অ্যাপটি সম্পূর্ণ দ্বিভাষিক এবং এখন **ইংরেজিতে শুরু হয়** (v0.1.3 থেকে); বাংলায় বদলানোর বোতামটি **সাইন-ইন স্ক্রিনেই** এবং **Settings → Language**-এ আছে।** থেকে যেকোনো সময় ইংরেজিতে (বা আবার বাংলায়) বদলানো যায়। সব লেখা দুই ভাষাতেই আছে, টাকা বাংলা সংখ্যায় (৳১২,৩৪,৫৬৭.৮৯) দেখানো যায়, আর তারিখও বাংলা মাসের নামে আসে।
 
 ### অ্যাপটি কী কী কাজ করে
 
