@@ -8,16 +8,18 @@ Public APK downloads for the **Small Business Manager** app — small business m
 
 ## English
 
-### ⬇️ Download
+#> **v0.1.2 fixes sign-in on a device.** The session now arrives both as a cookie and as a token in the login response, and the server no longer marks the cookie `Secure` on plain HTTP. The language switcher is on the sign-in screen itself, before login.
 
-**Direct link — v0.1.0 (74.9 MB):**
+## ⬇️ Download
+
+**Direct link — v0.1.2 (74.9 MB):**
 
 ```
-https://github.com/mehedihasansajal7-ctrl/small-business-manager-downloads/releases/download/v0.1.0/SmallBusinessManager-v0.1.0.apk
+https://github.com/mehedihasansajal7-ctrl/small-business-manager-downloads/releases/download/v0.1.2/SmallBusinessManager-v0.1.2.apk
 ```
 
 - Latest release page: [Releases](https://github.com/mehedihasansajal7-ctrl/small-business-manager-downloads/releases/latest)
-- SHA-256: `0B34C6E0CEFD2ECD1E9B6592C09922328B5F1F80875B44671A473EA0DB51C140`
+- SHA-256: `8A13D606229D61ECC62B9EB0E2A20F6E42D43480CAC18C3A1AD780138F300A1A`
 - Signed with APK Signature Scheme **v2** (required to install on Android 11+), certificate `CN=Android Debug` — a side-loaded build, not a Google Play release.
 
 ### Install on Android
@@ -83,11 +85,11 @@ No Expo account, no EAS subscription and no Play Console are involved — only G
 **সরাসরি লিংক — v0.1.0 (৭৪.৯ MB):**
 
 ```
-https://github.com/mehedihasansajal7-ctrl/small-business-manager-downloads/releases/download/v0.1.0/SmallBusinessManager-v0.1.0.apk
+https://github.com/mehedihasansajal7-ctrl/small-business-manager-downloads/releases/download/v0.1.2/SmallBusinessManager-v0.1.2.apk
 ```
 
 - সব ভার্সন একসাথে: [Releases](https://github.com/mehedihasansajal7-ctrl/small-business-manager-downloads/releases/latest)
-- SHA-256: `0B34C6E0CEFD2ECD1E9B6592C09922328B5F1F80875B44671A473EA0DB51C140`
+- SHA-256: `8A13D606229D61ECC62B9EB0E2A20F6E42D43480CAC18C3A1AD780138F300A1A`
 
 ### অ্যান্ড্রয়েডে ইনস্টল করার নিয়ম
 
